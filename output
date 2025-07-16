@@ -1,0 +1,169 @@
+ ****** WELCOME TO THE ONLINE VOTING PORTAL ******
+
+        ***************************************************
+
+        Enter 1 to proceed to the main logs: 
+1
+
+1. FOR VOTE ENTRY
+2. FOR ADMIN PANEL
+3. FOR WINNER
+
+Enter your choice:
+1
+Enter AADHAR ID: 10002
+Enter NAME: Goutam Kumar Bhadani
+Enter BIRTH DATE (dd-mm-yyyy): 01-01-1999
+
+
+        * * * * * LIST OF CANDIDATES * * * * *
+1. Mamata Banerjee         (Symbol: Fish)
+2. Deepa Dasmunsi          (Symbol: Boat)
+3. Protima Rajak           (Symbol: Motorcycle)
+4. Joydeb Halder           (Symbol: Broomstick)
+5. Kartik Chandra Ghosh    (Symbol: Wheel)
+
+Enter your choice (1-5): 3
+Voted for Protima Rajak
+
+THANK YOU FOR VOTING!
+
+
+        ****** WELCOME TO THE ONLINE VOTING PORTAL ******
+
+        ***************************************************
+
+        Enter 1 to proceed to the main logs:
+1
+
+1. FOR VOTE ENTRY
+2. FOR ADMIN PANEL
+3. FOR WINNER
+
+Enter your choice:
+1
+Enter AADHAR ID: 10008
+Enter NAME: Ravi Raj
+Enter BIRTH DATE (dd-mm-yyyy): 26-12-1999
+
+
+        * * * * * LIST OF CANDIDATES * * * * *
+1. Mamata Banerjee         (Symbol: Fish)
+2. Deepa Dasmunsi          (Symbol: Boat)
+3. Protima Rajak           (Symbol: Motorcycle)
+4. Joydeb Halder           (Symbol: Broomstick)
+5. Kartik Chandra Ghosh    (Symbol: Wheel)
+
+Enter your choice (1-5): 2
+Voted for Deepa Dasmunsi
+
+THANK YOU FOR VOTING!
+
+
+        ****** WELCOME TO THE ONLINE VOTING PORTAL ******
+
+        ***************************************************
+
+        Enter 1 to proceed to the main logs:
+1
+
+1. FOR VOTE ENTRY
+2. FOR ADMIN PANEL
+3. FOR WINNER
+
+Enter your choice:
+1
+Enter AADHAR ID: 10005
+Enter NAME: Aniket Arora
+Enter BIRTH DATE (dd-mm-yyyy): 28-08-1999
+
+
+        * * * * * LIST OF CANDIDATES * * * * *
+1. Mamata Banerjee         (Symbol: Fish)
+2. Deepa Dasmunsi          (Symbol: Boat)
+3. Protima Rajak           (Symbol: Motorcycle)
+4. Joydeb Halder           (Symbol: Broomstick)
+5. Kartik Chandra Ghosh    (Symbol: Wheel)
+
+Enter your choice (1-5): 3
+Voted for Protima Rajak
+
+THANK YOU FOR VOTING!
+
+
+        ****** WELCOME TO THE ONLINE VOTING PORTAL ******
+
+        ***************************************************
+
+        Enter 1 to proceed to the main logs:
+1
+
+1. FOR VOTE ENTRY
+2. FOR ADMIN PANEL
+3. FOR WINNER
+
+Enter your choice:
+1
+Enter AADHAR ID: 10006
+Enter NAME: Dipika Singh
+Enter BIRTH DATE (dd-mm-yyyy): 20-10-2000
+
+
+        * * * * * LIST OF CANDIDATES * * * * *
+1. Mamata Banerjee         (Symbol: Fish)
+2. Deepa Dasmunsi          (Symbol: Boat)
+3. Protima Rajak           (Symbol: Motorcycle)
+4. Joydeb Halder           (Symbol: Broomstick)
+5. Kartik Chandra Ghosh    (Symbol: Wheel)
+
+Enter your choice (1-5): 3
+Voted for Protima Rajak
+
+THANK YOU FOR VOTING!
+
+
+        ****** WELCOME TO THE ONLINE VOTING PORTAL ******
+
+        ***************************************************
+
+        Enter 1 to proceed to the main logs:
+1
+
+1. FOR VOTE ENTRY
+2. FOR ADMIN PANEL
+3. FOR WINNER
+
+Enter your choice:
+3
+
+Winner(s):
+Protima Rajak with 3 votes
+
+
+
+        ****** WELCOME TO THE ONLINE VOTING PORTAL ******
+
+        ***************************************************
+
+        Enter 1 to proceed to the main logs:
+1
+
+1. FOR VOTE ENTRY
+2. FOR ADMIN PANEL
+3. FOR WINNER
+
+Enter your choice:
+2
+Enter Admin Password: 3692
+
+VOTE COUNT:
+Mamata Banerjee: 0
+Deepa Dasmunsi: 1
+Protima Rajak: 3
+Joydeb Halder: 0
+Kartik Chandra Ghosh: 0
+
+Enter 1234 to close portal or any other key to return to main logs:
+1234
+
+Exiting the portal... Thank you!
